@@ -4,6 +4,22 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #000000;
+    background-color: #87c9c6;
+  }
+
+  #pseudocode {
+    width: 500px;
+  }
+
+  #digitalartcode {
+    width: 500px;
+  }
+
+  .pseudocode {
+    border: solid 1px; #000000;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-color: #d2cdcd;
+    width: 1000px;
   }
