@@ -4,12 +4,8 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #000000;
-    background-color: #87c9c6;
-  }
-
-  #pseudocode {
-    width: 500px;
+    border: solid 1px hwb(0 0% 100%);
+    background-color: #3c7b78;
   }
 
   #digitalartcode {
@@ -17,9 +13,11 @@
   }
 
   .pseudocode {
+    text-align: left;
     border: solid 1px; #000000;
-    margin-bottom: 5px;
-    margin-top: 5px;
-    background-color: #d2cdcd;
-    width: 1000px;
+    background-color: #1c2622;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
