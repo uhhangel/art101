@@ -4,6 +4,12 @@
 .minor-section {
     padding: 10px;
     margin-bottom: 10px;
-    border: solid 1px #888;
-    background-color: #DDD8C4;
+    border: solid 1px #f0f0f0;
+    background-color: #61232c;
+  }
+
+  .JSCode {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
