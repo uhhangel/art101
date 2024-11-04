@@ -3,8 +3,12 @@
     margin-bottom: 10px;
     border: dotted 1px #000000;
     background-color: #387e2c;
-    width: 1000px;
+    width: 650px;
     display: block;
     margin-left: auto;
     margin-right: auto;
   }
+  body {
+    background-color: #ac47a4;
+  }
+  

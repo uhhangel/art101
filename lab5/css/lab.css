@@ -7,4 +7,12 @@
     border: solid 1px #1f8093;
     background-color: #add6a5;
     color: #9c2586;
+    width: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
+  body {
+    background-color: #ac47a4;
+  }
+  

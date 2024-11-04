@@ -6,7 +6,7 @@
     margin-bottom: 10px;
     border: solid 1px hwb(0 0% 100%);
     background-color: #3c7b78;
-    width: 1000px;
+    width: 650px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -26,3 +26,7 @@
     margin-left: auto;
     margin-right: auto;
   }
+  body {
+    background-color: #ac47a4;
+  }
+  
