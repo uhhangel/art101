@@ -6,6 +6,11 @@
     margin-bottom: 10px;
     border: solid 1px hwb(0 0% 100%);
     background-color: #3c7b78;
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
   }
 
   #digitalartcode {

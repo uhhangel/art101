@@ -1,0 +1,25 @@
+
+.minor-section {
+    background-color: #44355B;
+    color: #9494ec;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: dotted 3px #9494ec;
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+};
+
+.special {
+    background-color: rgb(33, 177, 221);
+    border: dotted 50px rgb(0, 0, 0);
+    color: rgb(65, 165, 236);
+    font-weight: bold;
+
+}
+body {
+    background-color: #ac47a4;
+    margin-bottom: 1px;
+  }
+  

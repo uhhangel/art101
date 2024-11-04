@@ -1,7 +1,50 @@
 /* this css file will only style the homepage of our site */
-
-.cat-photo {
+#content {
   margin: 10px;
-  max-width: 500px;
+  padding: 10px;
+  border: solid 1px #d48fc4;
+  background-color: #6224c2;
+  color: #d48fc4;
+  text-align: center;
 }
 
+#my-portrait {
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+p {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+  background-color: #ac47a4;
+}
+
+/* we can have rules apply to multiple elements at the same time with commas */
+h1,h2,h3 {
+  font-family: 'Courier New', Courier, monospace;
+  color: 
+}
+
+/* and we can have rules that overlap other rules, both take effect */
+.h1 {
+  letter-spacing: 5px;
+  word-spacing: 5px;
+  font-size: 200%;
+  padding-right: 10px;
+}
+
+.minor-section {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #413aca;
+  background-color: #851a7c;
+  color: #d48fc4;
+  width: 650px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Courier New', Courier, monospace;
+}
