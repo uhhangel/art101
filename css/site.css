@@ -7,13 +7,5 @@
 
 
 /* the hashtag in a CSS selector selects an element by id, e.g., id="content" */
-#content {
-  margin: 10px;
-  padding: 10px;
-  border: solid 1px #d48fc4;
-  background-color: #6224c2;
-  color: #d48fc4;
-  text-align: center;
-}
 
 /* the period in a CSS selector selects an element by class, e.g., class="minor-section" */
