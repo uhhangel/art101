@@ -1,0 +1,21 @@
+
+body {
+    background-color: #ac47a4;
+    margin-bottom: 1px;
+  }
+
+.minor-section {
+    background-color: #e69fd8;
+    color: #4747c0;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: dotted 3px #9494ec;
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#input {
+    width: 210px;
+}
