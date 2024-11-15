@@ -11,6 +11,9 @@ body {
     margin-bottom: 10px;
     border: dotted 3px #9494ec;
     width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .text p {
