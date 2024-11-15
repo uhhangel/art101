@@ -3,7 +3,7 @@
   margin: 10px;
   padding: 10px;
   border: solid 1px #d48fc4;
-  background-color: #6224c2;
+  background-color: #6e2dd0;
   color: #d48fc4;
   text-align: center;
 }
@@ -20,6 +20,11 @@ p {
 
 body {
   background-color: #ac47a4;
+  width: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 /* we can have rules apply to multiple elements at the same time with commas */
@@ -39,7 +44,7 @@ h1,h2,h3 {
 .minor-section {
   padding: 10px;
   margin-bottom: 10px;
-  border: solid 1px #413aca;
+  border: solid 1px #5e57db;
   background-color: #851a7c;
   color: #d48fc4;
   width: 650px;
