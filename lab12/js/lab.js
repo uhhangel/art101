@@ -27,7 +27,7 @@ function sortingSmoothie(str) {
         return "Piña Colada"
     }
     else {
-        return "Well, no house for you."
+        return "Well, no smoothie for you."
     }
 }
 

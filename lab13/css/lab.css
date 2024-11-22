@@ -23,9 +23,3 @@ body {
   margin-top: 0;
   margin-bottom: 0;
 }
-
-#output.cols {
-  -webkit-column-width: 200px; /* Chrome, Safari, Opera */
-  -moz-column-width: 200px; /* Firefox */
-  column-width: 200px;
-}
