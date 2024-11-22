@@ -2,17 +2,17 @@
 
 
 body {
-    background-color: #277e9b;
+    background-color: #425dc9;
     margin-bottom: 1px;
   }
 
 .minor-section {
-    background-color: #e6b2db;
-    color: #094c46;
+    background-color: #a3d5d6;
+    color: #1e3995;
     padding: 10px;
     font-weight: bold;
     margin-bottom: 10px;
-    border: dotted 5px #639b99;
+    border: solid 10px #e3f4f2;
     width: 1000px;
     display: block;
     margin-left: auto;
