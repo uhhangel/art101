@@ -29,8 +29,6 @@ $.ajax({
     dataType: "json",
     //what do we do when the api call is successful
     success: function(data) {
-        //Setting the image src attribute to the data
-    $("img[data-role=placeholder]").attr("src", data.image.image_url);
         console.log(data);
 
 

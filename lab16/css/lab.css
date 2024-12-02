@@ -1,0 +1,21 @@
+h1 {
+    color: #abe8e4;
+}
+
+body {
+    background-color: #43ad9a;
+    margin-bottom: 1px;
+  }
+
+.minor-section {
+    background-color: #387db2;
+    color: #abe8e4;
+    padding: 10px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    border: solid 10px #4866ba;
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
